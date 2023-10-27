@@ -340,3 +340,7 @@ Root Mean Squared Error (RMSE): 3.1768676155809996
 Cross-validation scores: [0.84426302 0.9368005  0.395935   0.91872027 0.81259453]
 Average cross-validation score: 0.7816626626001728
 ```
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
